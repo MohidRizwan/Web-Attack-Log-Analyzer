@@ -28,32 +28,6 @@ This tool is perfect for:
 
 ---
 
-## 📁 Project Structure
-
-```
-
-log-analyzer/
-│
-├── logs/
-│   └── access.log            # Sample logs
-│
-├── analyzer/
-│   ├── patterns.py           # Regex attack signatures
-│   ├── parser.py             # Parsing & detection
-│   ├── reporter.py           # Console, JSON, HTML output
-│   └── utils.py              # Helper extraction functions
-│
-├── output/
-│   ├── suspicious.json
-│   └── report.html
-│
-├── main.py                   # CLI Entry point
-├── requirements.txt
-└── README.md
-
-````
-
----
 
 ## 🔧 Installation
 
