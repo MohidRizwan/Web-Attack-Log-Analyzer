@@ -70,25 +70,25 @@ pip install -r requirements.txt
 ### Basic Scan
 
 ```bash
-python3 main.py --file logs/access.log
+python main.py --file logs/access.log
 ```
 
 ### Save JSON Report
 
 ```bash
-python3 main.py --file logs/access.log --json
+python main.py --file logs/access.log --json
 ```
 
 ### Generate HTML Report
 
 ```bash
-python3 main.py --file logs/access.log --html
+python main.py --file logs/access.log --html
 ```
 
 ### Both at once:
 
 ```bash
-python3 main.py --file logs/access.log --json --html
+python main.py --file logs/access.log --json --html
 ```
 
 ---
