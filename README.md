@@ -1,4 +1,3 @@
-```markdown
 # 🔍 Log Analyzer for Suspicious Activity
 A lightweight **web security log analysis tool** that scans Apache/Nginx access logs for suspicious activity such as **SQL Injection, XSS, Path Traversal, Command Injection, Brute Force attacks**, and more.
 
